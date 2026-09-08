@@ -18,7 +18,7 @@ Work through [`patterns/`](patterns/) first. It covers 16 reusable patterns for 
 ## Suggested plan
 
 1. Read every page in [`patterns/`](patterns/) and type each template from memory.
-2. Warm up with 20 to 30 easy and medium data manipulation problems.
+2. Work the [`neetcode-150/`](neetcode-150/) list category by category, reading the linked pattern before each category.
 3. Practice one timed 45 minute problem every other day.
 4. Build a small script that consumes a public API end to end.
 5. Review your solutions for readability and add tests.
@@ -26,7 +26,7 @@ Work through [`patterns/`](patterns/) first. It covers 16 reusable patterns for 
 ## Contents
 
 - [`patterns/`](patterns/): the 16 coding patterns in Python.
-- Coding questions and solutions: coming next.
+- [`neetcode-150/`](neetcode-150/): the NeetCode 150 problem list, grouped by category, with a progress tracker and links to LeetCode and the matching pattern. Solutions go here as they are written.
 
 ## Resources
 
