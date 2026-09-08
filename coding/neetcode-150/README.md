@@ -5,6 +5,7 @@ The NeetCode 150 is a curated list of 150 LeetCode problems grouped into 18 cate
 - Total: 150 problems (28 Easy, 101 Medium, 21 Hard)
 - Source list: [neetcode.io/practice](https://neetcode.io/practice) (NeetCode 150). Problem links point to LeetCode.
 - Pair each category with the matching pattern in [`../patterns/`](../patterns/).
+- Prefer to work by difficulty? See [`by-difficulty.md`](by-difficulty.md) for the same list split into Easy, Medium, and Hard, with category subsections.
 
 ## How to use this list
 

@@ -26,7 +26,7 @@ Work through [`patterns/`](patterns/) first. It covers 16 reusable patterns for 
 ## Contents
 
 - [`patterns/`](patterns/): the 16 coding patterns in Python.
-- [`neetcode-150/`](neetcode-150/): the NeetCode 150 problem list, grouped by category, with a progress tracker and links to LeetCode and the matching pattern. Solutions go here as they are written.
+- [`neetcode-150/`](neetcode-150/): the NeetCode 150 problem list with links to LeetCode and the matching pattern. Available [by category](neetcode-150/README.md) with a progress tracker, or [by difficulty](neetcode-150/by-difficulty.md) with category subsections. Solutions go here as they are written.
 
 ## Resources
 
